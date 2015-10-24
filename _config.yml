@@ -7,20 +7,20 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            Gord Stephen 
+tagline:          'Sociotechnical energy systems researcher'
+description:      'Sociotechnical energy systems researcher with the <a href="https://uwaterloo.ca/sustainable-energy-policy/" target="_blank">Sustainable Energy Policy group</a> at the University of Waterloo.'
+url:              http://www.gordstephen.ca
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Gord Stephen'
+  url:            'http://www.gordstephen.ca' 
 
 paginate:         5
 
 # Custom vars
-version:          2.1.0
+email:            'http://www.google.com/recaptcha/mailhide/d?k=01tG4h5A_4eXHg3FR7Rcjpeg==&c=GhqaUyineIlZOszOBIjYZhP2sboF9Tra3Xv3qqwiLE0='
+github:           'https://github.com/GordStephen'
+linkedin:         'https://www.linkedin.com/in/gordstephen'
 
-github:
-  repo:           https://github.com/poole/hyde
