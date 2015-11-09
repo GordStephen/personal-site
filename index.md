@@ -12,15 +12,14 @@ Uptake and impact of residential energy efficiency investments: sociodemographic
 
 # Past Publications
 
-Vulnerable Households and the Smart Grid in Ontario
-
+Ian H. Rowlands and Gord Stephen, _Vulnerable Households and the Smart Grid in Ontario: Emerging Challenges and Opportunities_ (Toronto, ON:  Metcalf Foundation), in press
 
 # Past Presentations
 
-Energy efficiency gains in residential households: assessing sociotechnical potential remotely (interactive poster - Energy Council of Canada Canadian Energy Summit, May 2015)
+Gord Stephen, _Energy efficiency gains in residential households: assessing sociotechnical potential remotely_ (interactive poster - Energy Council of Canada Canadian Energy Summit, May 2015)
 
-Working for socio-economic equity in Ontario's emerging Smart Grid: Historical analogues and lessons from other jurisdictions (presentation - Ontario Network for Sustainable Energy Policy Workshop, April 2015)
+Gord Stephen and Ian H. Rowlands, _Working for socio-economic equity in Ontario's emerging Smart Grid: Historical analogues and lessons from other jurisdictions_ (presentation - Ontario Network for Sustainable Energy Policy Workshop, April 2015)
 
 # Miscellaneous
 
-Time series model fitting via Kalman smoothing and EM estimation in TimeModels.jl
+[Time series model fitting via Kalman smoothing and EM estimation in TimeModels.jl]()
