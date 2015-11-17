@@ -9,6 +9,8 @@ Residential electricity data: thermal disaggregation and dwelling characterizati
 
 Uptake and impact of residential energy efficiency investments: sociodemographic and spatial network factors
 
+Intervention analysis of the impacts of residential electricity auditing on household load profiles
+
 
 # Past Publications
 
