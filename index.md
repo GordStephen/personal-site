@@ -22,8 +22,6 @@ Gord Stephen, _Energy efficiency gains in residential households: assessing soci
 
 Gord Stephen and Ian H. Rowlands, _Working for socio-economic equity in Ontario's emerging Smart Grid: Historical analogues and lessons from other jurisdictions_ (presentation - Ontario Network for Sustainable Energy Policy Workshop, April 2015)
 
-<!---
 # Miscellaneous
 
-[Time series model fitting via Kalman smoothing and EM estimation in TimeModels.jl]()
--->
+[Time series model fitting via Kalman smoothing and EM estimation in TimeModels.jl]({{site.baseurl}}public/pdf/TimeModelsEMFitting.pdf)

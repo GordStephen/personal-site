@@ -4,7 +4,6 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
 
 # Setup
 title:            Gord Stephen 
@@ -16,8 +15,6 @@ baseurl:          /
 author:
   name:           'Gord Stephen'
   url:            'http://www.gordstephen.ca' 
-
-paginate:         4
 
 # Custom vars
 email:            'http://www.google.com/recaptcha/mailhide/d?k=01tG4h5A_4eXHg3FR7Rcjpeg==&c=GhqaUyineIlZOszOBIjYZhP2sboF9Tra3Xv3qqwiLE0='
