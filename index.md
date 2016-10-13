@@ -5,15 +5,11 @@ title: Home
 
 # Current Projects
 
-Residential electricity data: thermal disaggregation and dwelling characterization
-
-Uptake and impact of residential energy efficiency investments: sociodemographic and spatial network factors
-
-Electrical end-use intervention analysis methods: performance and policy implications
+Quantifying household-level effects of energy intervention programs
 
 # Past Publications
 
-Ian H. Rowlands and Gord Stephen, _Vulnerable Households and the Smart Grid in Ontario: Emerging Challenges and Opportunities_ (Toronto, ON:  Metcalf Foundation), in press
+Ian H. Rowlands and Gord Stephen, [_Vulnerable Households and the Smart Grid in Ontario: Emerging Challenges and Opportunities_](http://metcalffoundation.com/wp-content/uploads/2016/07/Metcalf_Green-Prosperity-Papers_Smart-Grid_final_web.pdf) (Toronto, ON:  Metcalf Foundation)
 
 # Past Presentations
 
